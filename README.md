@@ -3,7 +3,8 @@ The datset contains images of ants. The dataset can be broadly divided into ants
 The given dataset contains 3 folders:
   1. Ari
   2. Azumaoozuari
-  3. Hiari 
+  3. Hiari
+  
 Ari folder has images of normal ants.
 Azumaoozuari and Hiari folders has images of fireants.
 
@@ -13,6 +14,7 @@ The same notebook will create a new folder named "output-folder" one level above
   1. test
   2. train
   3. validation
+  
 training_percentage, validation_percentage is set to 0.6,0.2 respectively.
 In each folder we will again have Ari, Azumaoozuari, Hiari again.
 
